@@ -49,11 +49,9 @@ li {
 }
 
 .prototype-img {
-    display: block;
     max-width: 120px;
     width: 100%;
     height: auto;
-    margin: 0 auto;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
