@@ -9,4 +9,4 @@ Stride is an innovative smart cane that uses artificial intelligence to help vis
 - Standalone operation without external devices
 
 ## Project Website
-Visit our [GitHub Pages site](https://YOUR_USERNAME.github.io/stride-project/) to learn more about Stride. 
+Visit our [GitHub Pages site](https://aditi1421.github.io/Stride/) to learn more about Stride. 
